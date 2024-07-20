@@ -1,0 +1,12 @@
+tabela de clientes:
+id
+nome
+email
+senha
+imagem caminho varchar
+
+
+CRIAR 
+LISTAR
+ATUALIZAR
+LISTAR UNICO
